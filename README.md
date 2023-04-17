@@ -27,4 +27,6 @@ I built:
 - /modules/
 - the rest of /styles/
 
-Credit to tcgplayer.com for data and images.
+Credit to tcgplayer.com for data.
+
+Credit to google image search for the images in /public/
