@@ -1,0 +1,31 @@
+.pagination {
+  display: flex;
+  list-style: none;
+  padding-left: 1em;
+}
+
+.pageLink {
+  cursor: pointer;
+}
+
+.pageItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid #101010;
+  cursor: pointer;
+  background-color: #FFFFFF;
+}
+
+.pageItemActive {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid #101010;
+  cursor: pointer;
+  background-color: #dadada;
+}
